@@ -6,6 +6,7 @@
   background-color: black;
 }
 
-.font {
+h1, h2, h3, p, .center-font {
   font-family: DIN-Alternate, arial, times;
+  text-align: center;
 }
