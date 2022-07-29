@@ -1,1 +1,11 @@
+.blue-background {
+  background-color: lightblue;
+}
 
+.black-background {
+  background-color: black;
+}
+
+.font {
+  font-family: DIN-Alternate, arial, times;
+}
