@@ -1,3 +1,7 @@
+header footer {
+  margin: 20px;
+}
+
 .blueBackground {
   background-color: lightblue;
 }
