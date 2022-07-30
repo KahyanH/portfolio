@@ -42,6 +42,7 @@ p {
 
 hr {
   border: 2px solid black;
+  height:5px;
 }
  
 a:link {color: blue;}
