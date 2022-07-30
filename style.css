@@ -19,12 +19,12 @@ body {
   text-align: center;
 }
 
-h1, h2, h3, h4, .headFontPosition {
+h1 h2 h3 h4 {
   font-family: DIN-Alternate, arial, times;
   text-align: center;
 }
 
-p .fontPosition {
+p {
   font-family: DIN-Alternate, arial, times;
   text-align: left;
   margin: auto auto auto 50px;
