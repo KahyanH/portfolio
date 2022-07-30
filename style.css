@@ -12,6 +12,6 @@ h1, h2, h3, h4, p, .center-font {
 }
 
 .page-size {
-  width: 600px;
-  margin: 1000px auto 0 auto;
+  width: 500px;
+  margin: auto;
 }
