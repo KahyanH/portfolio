@@ -6,12 +6,9 @@ body {
   background-image: url("images/skyline.jpeg");
 }
 
-.blueBackground {
-  background-color: lightblue;
-}
-
 .blackBackground {
   background-color: black;
+  height: 20px;
 }
 
 .whiteText {
@@ -31,6 +28,7 @@ p .fontPosition {
   font-family: DIN-Alternate, arial, times;
   text-align: left;
   margin: auto auto auto 50px;
+  font-size: 10px;
 }
 
 .pageSize {
