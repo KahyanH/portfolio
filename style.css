@@ -34,3 +34,6 @@ p .fontPosition {
 hr {
   border: 2px solid black;
 }
+ 
+a:link {color: blue;}
+a:visited {color: red;}
