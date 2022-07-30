@@ -1,19 +1,24 @@
+/* set header and footer margins*/
 header footer {
   margin: 20px;
 }
 
+/*set background image*/
 body {
   background-image: url("images/skyline.jpeg");
 }
 
+/*background color for header and footer*/
 .blackBackground {
   background-color: black;
 }
 
+/*white text for header and footer*/
 .whiteText {
   color: white;
 }
 
+/*set fonts, margins and alignment styles*/
 h1, h2, h3, h4, .fontPosition{
   font-family: DIN-Alternate, arial, times;
   text-align: center;
@@ -47,10 +52,12 @@ hr {
   border: 1px solid black;
   height:1px;
 }
- 
+
+ /*link styles*/
 a:link {color: blue;}
 a:visited {color: red;}
 
+/*box styles*/
 .box {
   background-color: floralWhite;
   padding: 20px;
