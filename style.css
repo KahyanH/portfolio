@@ -6,7 +6,13 @@
   background-color: black;
 }
 
-h1, h2, h3, h4, p, .fontPosition {
+h1, h2, h3, h4, .headFontPosition {
+  font-family: DIN-Alternate, arial, times;
+  text-align: center;
+  margin: auto auto auto 50px;
+}
+
+p .fontPosition {
   font-family: DIN-Alternate, arial, times;
   text-align: left;
   margin: auto auto auto 50px;
