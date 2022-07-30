@@ -41,8 +41,8 @@ p {
 }
 */
 hr {
-  border: 2px solid black;
-  height:2px;
+  border: 1px solid black;
+  height:1px;
 }
  
 a:link {color: blue;}
