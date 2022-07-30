@@ -27,7 +27,7 @@ p {
   font-family: DIN-Alternate, arial, times;
   text-align: left;
   margin: auto auto auto 50px;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .pageSize {
@@ -35,11 +35,11 @@ p {
   margin: auto;
 }
 
-.listInside {
+/*.listInside {
   list-style-position: inside;
   color: black;
 }
-
+*/
 hr {
   border: 2px solid black;
   height:2px;
