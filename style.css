@@ -17,6 +17,10 @@ header footer {
   color: white;
 }
 
+.center {
+  text-align: center;
+}
+
 h1, h2, h3, h4, .headFontPosition {
   font-family: DIN-Alternate, arial, times;
   text-align: center;
