@@ -6,10 +6,10 @@
   background-color: black;
 }
 
-h1, h2, h3, h4, p, .center-font {
+h1, h2, h3, h4, p, .fontPosition {
   font-family: DIN-Alternate, arial, times;
-  text-align: right;
-  margin: auto auto auto 100px;
+  float: center;
+  width 100px;
 }
 
 .page-size {
