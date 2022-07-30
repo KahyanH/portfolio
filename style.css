@@ -30,6 +30,13 @@ p {
   font-size: 14px;
 }
 
+ul, ol, .listFont {
+  font-family: DIN-Alternate, arial, times;
+  text-align: left;
+  margin: auto auto auto 50px;
+  font-size: 14px;
+}
+
 .pageSize {
   width: 600px;
   margin: auto;
