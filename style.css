@@ -1,6 +1,5 @@
 header footer {
   margin: 20px;
-  height: 50px;
 }
 
 body {
@@ -28,7 +27,7 @@ p {
   font-family: DIN-Alternate, arial, times;
   text-align: left;
   margin: auto auto auto 50px;
-  font-size: 30px;
+  font-size: 15px;
 }
 
 .pageSize {
