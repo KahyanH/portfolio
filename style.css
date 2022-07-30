@@ -22,7 +22,7 @@ h1, h2, h3, h4, .fontPosition{
 p {
   font-family: DIN-Alternate, arial, times;
   text-align: left;
-  margin: auto auto auto 50px;
+  margin: auto;
   font-size: 14px;
 }
 
@@ -35,7 +35,7 @@ ul, ol, .listFont {
 
 .pageSize {
   width: 600px;
-  margin: 0 0 0 100;
+  margin: auto;
 }
 
 .listInside {
