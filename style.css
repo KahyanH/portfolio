@@ -14,8 +14,8 @@ body {
   color: white;
 }
 
-.rightAlign {
-  text-align: right;
+.leftAlign {
+  text-align: left;
 }
 
 h1, h2, h3, h4, .fontPosition{
