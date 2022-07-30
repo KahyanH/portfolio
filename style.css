@@ -26,3 +26,7 @@ p .fontPosition {
   list-style-position: inside;
   color: black;
 }
+
+hr {
+  color: black;
+}
