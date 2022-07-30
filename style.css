@@ -22,7 +22,7 @@ h1, h2, h3, h4, .fontPosition{
 p {
   font-family: DIN-Alternate, arial, times;
   text-align: left;
-  margin: auto;
+  margin: 0px 50px 0px 50px;
   font-size: 14px;
 }
 
