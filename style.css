@@ -25,4 +25,5 @@ p .fontPosition {
 
 .listInside {
   list-style-position: inside;
+  color: black;
 }
