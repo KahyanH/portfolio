@@ -1,6 +1,9 @@
 header footer {
   margin: 20px;
 }
+.backgroundImage {
+  <img src = "images/skyline.jpeg" size = "cover" alt = "Night City Skyline"/>
+}
 
 .blueBackground {
   background-color: lightblue;
