@@ -14,10 +14,6 @@ body {
   color: white;
 }
 
-.leftAlign {
-  text-align: left;
-}
-
 h1, h2, h3, h4, .fontPosition{
   font-family: DIN-Alternate, arial, times;
   text-align: center;
@@ -39,7 +35,7 @@ ul, ol, .listFont {
 
 .pageSize {
   width: 600px;
-  margin: auto;
+  margin: 0 0 0 0;
 }
 
 .listInside {
