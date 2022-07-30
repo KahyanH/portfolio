@@ -8,8 +8,8 @@
 
 h1, h2, h3, h4, p, .fontPosition {
   font-family: DIN-Alternate, arial, times;
-  float: center;
-  width 100px;
+  float: left;
+  width: 100px;
 }
 
 .page-size {
