@@ -18,12 +18,13 @@ body {
   color: white;
 }
 
-/*set fonts, margins and alignment styles*/
+/*sets fonts, margins and alignment styles for thw titles*/
 h1, h2, h3, h4, .fontPosition{
   font-family: DIN-Alternate, arial, times;
   text-align: center;
 }
 
+/*sets font, alignment, margin, and size of paragraph text*/  
 p {
   font-family: DIN-Alternate, arial, times;
   text-align: left;
@@ -31,6 +32,7 @@ p {
   font-size: 14px;
 }
 
+/*sets font, alignment, margin, and size of list text*/
 ul, ol, .listFont {
   font-family: DIN-Alternate, arial, times;
   text-align: left;
@@ -38,6 +40,7 @@ ul, ol, .listFont {
   font-size: 14px;
 }
 
+/*used in the html main section*/
 .pageSize {
   width: 600px;
   margin: auto;
@@ -57,12 +60,13 @@ hr {
 a:link {color: blue;}
 a:visited {color: red;}
 
-/*box styles*/
+/*sets box color and padding*/
 .box {
   background-color: floralWhite;
   padding: 20px;
 }
 
+/*makes the border edges round*/
 .round {
   border-radius: 10px;
 }
